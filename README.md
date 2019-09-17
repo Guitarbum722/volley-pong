@@ -63,6 +63,8 @@ Once each single player on one side has set the ball up at least one time, an of
 
 An offensive strike must bounce on the opposing team's side of the table one time.  Any more bounces is a point yielded to the offending team.  If the ball does not bounce one time on the opposing side, then the point goes to the opposing team.
 
+**NOTE: Returning the ball to the opposing side IS NOT PERMITTED if the offensive player's bat goes passed the physical or logical line dividing the table (ie. the net).**
+
 ## Equipment
  
 The game is typically played with table tennis racquets and a table tennis ball.  Although there _could_ be alternatives, each player should use the same type of racquet.
