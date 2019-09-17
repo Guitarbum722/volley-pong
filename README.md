@@ -43,9 +43,25 @@ _The side of which the serve hits on the table is not relevant._
 
 ## Scoring
 
+In order to win the match, a team must:
+* Be the first to reach 21 points.
+* Have a 2 point lead.
+
+If 21 is reached but there is not a lead of 2 points, then the game continues until the 2 point lead is reached.
+
 ## Defense
 
+A round of defence starts when either the ball is served into play, or the opposing team makes an offensive strike.
+
+Each player MUST hit the ball one time before an offensive move is made (ie. each player must set the ball up for their next teammate).  The final teammate in the series has the choice of either setting the ball again, or returning with an offensive strike.
+
+NOTE: No player shall hit the ball two times in a row.  Ever!
+
 ## Offense
+
+Once each single player on one side has set the ball up at least one time, an offensive strike is permitted, but not required.  The team could continue setting the ball, assuming that a player never hits the ball twice in a row.
+
+An offensive strike must bounce on the opposing team's side of the table one time.  Any more bounces is a point yielded to the offending team.  If the ball does not bounce one time on the opposing side, then the point goes to the opposing team.
 
 ## Equipment
  
