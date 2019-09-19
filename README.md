@@ -81,7 +81,7 @@ There are surrounding surfaces that are considered "fair game" and will keep the
 # Glossary
 
 ## spike
-A spike is defined as a final shot or attack following a volley, returned to the opposing side hit in such a manner that the ball is not returnable.
+A spike is defined as a final shot or attack following a volley, returned to the opposing side hit in such a manner that the ball becomes much more difficult to return, and in some cases is not returnable.
 
 ## No Man's Slam
 The area between the edge of the table and the net. No [spikes](#spike) or slams are permitted in this zone.
