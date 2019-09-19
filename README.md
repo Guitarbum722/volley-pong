@@ -63,11 +63,12 @@ Once each single player on one side has set the ball up at least one time, an of
 
 An offensive strike must bounce on the opposing team's side of the table one time.  Any more bounces is a point yielded to the offending team.  If the ball does not bounce one time on the opposing side, then the point goes to the opposing team.
 
-**NOTE: Returning the ball to the opposing side IS NOT PERMITTED if the offensive player's bat goes passed the physical or logical line dividing the table (ie. the net).**
+**NOTE: Returning the ball to the opposing side IS NOT PERMITTED if the offensive player's paddle goes past the physical or logical line dividing the table (ie. the net).**
+**ADDENDUM TO NOTE: All shots to opposing side considered a [spike](#spike) must be hit by a player whose feet are behind the table. This makes the area from the edge of the table to the net a no slam zone, or [NO MAN'S SLAM](#no-mans-slam)**
 
 ## Equipment
  
-The game is typically played with table tennis racquets and a table tennis ball.  Although there _could_ be alternatives, each player should use the same type of racquet.
+The game is typically played with table tennis paddles and a table tennis ball.  Although there _could_ be alternatives, each player should use the same type of paddle.
 
 ## Surroundings
 
@@ -75,3 +76,11 @@ There are surrounding surfaces that are considered "fair game" and will keep the
 * The table.
 * Vertical surfaces that are NOT human (eg. walls).
 * Pipes (the cylindrical shape presents too much grey area).
+
+# Glossary
+
+## spike
+A spike is defined as a final shot or attack following a volley, returned to the opposing side hit in such a manner that the ball is not returnable.
+
+## No Man's Slam
+The area between the edge of the table and the net. No [spikes](#spike) or slams are permitted in this zone.
