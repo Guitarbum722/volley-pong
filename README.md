@@ -64,6 +64,7 @@ Once each single player on one side has set the ball up at least one time, an of
 An offensive strike must bounce on the opposing team's side of the table one time.  Any more bounces is a point yielded to the offending team.  If the ball does not bounce one time on the opposing side, then the point goes to the opposing team.
 
 **NOTE: Returning the ball to the opposing side IS NOT PERMITTED if the offensive player's paddle goes past the physical or logical line dividing the table (ie. the net).**
+
 **ADDENDUM TO NOTE: All shots to opposing side considered a [spike](#spike) must be hit by a player whose feet are behind the table. This makes the area from the edge of the table to the net a no slam zone, or [NO MAN'S SLAM](#no-mans-slam)**
 
 ## Equipment
