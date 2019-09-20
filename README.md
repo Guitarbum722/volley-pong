@@ -61,9 +61,11 @@ NOTE: No player shall hit the ball two times in a row.  Ever!
 
 Once each single player on one side has set the ball up at least one time, an offensive strike is permitted, but not required.  The team could continue setting the ball, assuming that a player never hits the ball twice in a row.
 
+An offensive strike is defined when any player on the offensive team strikes the ball to the opposing team's side of the table. **An offensive strike will be deemed illegal if the offensive player's bat is above their head when they make contact with the ball and result in opposing team receiving a point.**
+
 An offensive strike must bounce on the opposing team's side of the table one time.  Any more bounces is a point yielded to the offending team.  If the ball does not bounce one time on the opposing side, then the point goes to the opposing team.
 
-**NOTE: Returning the ball to the opposing side IS NOT PERMITTED if the offensive player's bat goes passed the physical or logical line dividing the table (ie. the net).**
+**NOTE: Returning the ball to the opposing side IS NOT PERMITTED if during the point of contact with the ball the offensive player's bat goes passed the physical or logical line dividing the table (ie. the net).**
 
 ## Equipment
  
