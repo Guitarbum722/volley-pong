@@ -37,7 +37,7 @@ The service is similar to a serve in "Doubles Table Tennis," where the following
 1. The ball is tossed straight up by the server at least 6 inches.
 2. It is struck, and bounces on the server's side of the table first, over the net, the bounces on the opposing team's side of the table.
 
-In the case where the ball hits the net and rolls over, it is considered a "let" and the serve is redone without any points awarded.
+In the case where the ball hits the net and rolls over, it is considered a "let" and the serve is redone without any points awarded. This does not count as a fault.
 
 _The side of which the serve hits on the table is not relevant._
 
