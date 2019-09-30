@@ -37,7 +37,11 @@ The service is similar to a serve in "Doubles Table Tennis," where the following
 1. The ball is tossed straight up by the server at least 6 inches.
 2. It is struck, and bounces on the server's side of the table first, over the net, the bounces on the opposing team's side of the table.
 
+In the case where the ball hits the net and rolls over, it is considered a "let" and the serve is redone without any points awarded.
+
 _The side of which the serve hits on the table is not relevant._
+
+During a service run, which is defined by consecutive serves by the same person, the server is allowed one (1) service fault without any points awarded to the opposing team. Upon the first game-point reached by a team, the current service run will always be reset, allowing for another service fault with no points awarded.
 
 ## Scoring
 
@@ -83,3 +87,11 @@ There are surrounding surfaces that are considered "fair game" and will keep the
 ## spike
 
 A spike is defined as a final shot or attack following a volley, returned to the opposing side hit in such a manner that the ball becomes much more difficult to return, and in some cases is not returnable.
+
+## Service Run
+
+A service run is a consecutive serves initiating play performed by the same individual. During a normal game, service runs are typically five serves long. A service run can be shorter or longer during game-point serves.
+
+## Service Fault
+
+A service fault is any case where, under normal circumstances, a point would be awarded to the opposing team due to a service error. 
