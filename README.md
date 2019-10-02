@@ -12,7 +12,7 @@ The returning team either commits an error and yields the point to the oppositio
 
 ## Starting the game
 
-A random player sets the ball up for the next player to their left; moving in a clockwise direction. Each succeeding player will also set the ball up. The first player to make an error yields the first _service_ to the opposing team.
+Team on the most Northern side does the first _service_. In the event where there is no most Northern team, the most Eastern team will serve first.
 
 ## Number of players
 
