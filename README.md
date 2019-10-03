@@ -56,6 +56,10 @@ If 21 is reached but there is not a lead of 2 points, then the game continues un
 
 A round of defence starts when either the ball is served into play, or the opposing team makes an offensive strike.
 
+Like in standard ping pong, the ball must contact the table before a receiver touches it with their paddle. If the ball hasn't
+yet touched the table, a defender touching the ball before it passes the end of the table will result in a point for the
+offense. Otherwise touching a ball that hasn't bounced will result in a point for the defense.
+
 Each player MUST hit the ball one time before an offensive move is made (ie. each player must set the ball up for their next teammate). The final teammate in the series has the choice of either setting the ball again, or returning with an offensive strike.
 
 NOTE: No player shall hit the ball two times in a row. Ever!
@@ -94,4 +98,4 @@ A service run is a consecutive serves initiating play performed by the same indi
 
 ## Service Fault
 
-A service fault is any case where, under normal circumstances, a point would be awarded to the opposing team due to a service error. 
+A service fault is any case where, under normal circumstances, a point would be awarded to the opposing team due to a service error.
