@@ -56,11 +56,9 @@ If 21 is reached but there is not a lead of 2 points, then the game continues un
 
 A round of defence starts when either the ball is served into play, or the opposing team makes an offensive strike.
 
-Like in standard ping pong, the ball must contact the table before a receiver touches it with their paddle. If the ball hasn't
-yet touched the table, a defender touching the ball before it passes the end of the table will result in a point for the
-offense. Otherwise touching a ball that hasn't bounced will result in a point for the defense.
-
-Each player MUST hit the ball one time before an offensive move is made (ie. each player must set the ball up for their next teammate). The final teammate in the series has the choice of either setting the ball again, or returning with an offensive strike.
+Like in standard ping pong, touching the ball with any part of the body except the racket hand is not permitted unless the ball
+passes the end line of the table without bouncing, in which case the point is automatically awarded to the receiver. Touching
+the ball before it either passes the end line or bounces is a point for the offense.
 
 NOTE: No player shall hit the ball two times in a row. Ever!
 
