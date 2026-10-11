@@ -47,7 +47,7 @@ During a service run, which is defined by consecutive serves by the same person,
 
 In order to win the match, a team must:
 
-- Be the first to reach 21 points.
+- Have at least 21 points.
 - Have a 2 point lead.
 
 If 21 is reached but there is not a lead of 2 points, then the game continues until the 2 point lead is reached.
